@@ -23,10 +23,7 @@ mask ($M_{ideal}$) with the effective density mask ($M_{eff}$) derived from a pr
 ## The visualization of ASIS
 * The ASIS visualization result in the 00034 object of the XHumans dataset.
 <p align="middle">
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap;">
-    <img src="assets/Exavatar_00034.gif" width="324" height="384">
-    <img src="assets/ElasticGS_00034.gif" width="324" height="384">
-  </div>
+<img src="assets/Exavatar_00034.gif" width="324" height="384" style="margin-right: 15px;"><img src="assets/ElasticGS_00034.gif" width="324" height="384">
 </p>
 <p align="center">
 The left panel displays the results of ExAvatar, whereas the right panel shows ElasticGS (Ours).
