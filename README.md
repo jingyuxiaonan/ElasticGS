@@ -38,6 +38,11 @@ The left panel displays the results of ExAvatar, whereas the right panel shows E
 The left panel displays the results of ExAvatar, whereas the right panel shows ElasticGS (Ours). Red regions denote cracks or holes.
 </p>
 
+* The ASIS visualization result in the female_3_casual object of the People-Snapshot dataset.
+<p align="middle">
+<img src="assets/exavatar_female_3_casual.gif" width="405" height="480" style="margin-right: 15px;"><img src="assets/ElasticGS_female_3_casual.gif" width="405" height="480">
+</p>
+
 ## Code
 Code is coming soon...
 
